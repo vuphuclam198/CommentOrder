@@ -1,0 +1,6 @@
+<config>
+    <extension_attributes for="Magento\Checkout\Api\Data\ShippingInformationInteerfac">
+        <attribute code="delivery_comment" type="string"></attribute>
+    </extension_attributes>
+</config>
+
